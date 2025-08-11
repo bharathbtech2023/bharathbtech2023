@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🎓 I'm a 3rd-year Computer Science & Business Systems student
+- 🎓 I'm a 3rd-year Computer Science Engineering Student
 - 💡 I build creative & impactful tech + content projects
 - 🚀 Currently focused on AI, Software Engineering, and Content Creation
 
