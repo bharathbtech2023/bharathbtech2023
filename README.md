@@ -33,8 +33,8 @@
 ## 📫 Let's Connect
 ## 📫 Contact Me
 
-[![mr.idealspirit@gmail.com](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat-square)](mailto:your.email@example.com)  
-[![www.linkedin.com/in/bharath-kumar-chaduvula-70a205377](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourusername)
+[![mr.idealspirit@gmail.com](https://img.shields.io/badge/Email-your.email@example.com-blue?style=flat-square)](mailto:mr.idealspirit.com)  
+[![www.linkedin.com/in/bharath-kumar-chaduvula-70a205377](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/bharath-kumar-chaduvula-70a205377)
 
 ###
  ✨ “Code with purpose, create with passion.” ✨
